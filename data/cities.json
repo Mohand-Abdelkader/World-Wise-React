@@ -1,51 +1,27 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": "73930385"
-    },
-    {
-      "cityName": "Madrid",
+      "id": "2ead",
+      "cityName": "Olias del Rey",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "date": "2025-03-21T07:12:14.185Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
-      "id": "b176",
-      "cityName": "Objatschewo",
-      "country": "Russian Federation (the)",
-      "emoji": "🇷🇺",
-      "date": "2025-03-21T06:35:12.033Z",
-      "notes": "",
-      "position": {
-        "lat": "60.919512514918836",
-        "lng": "48.624624595046015"
+        "lat": "39.94343646197423",
+        "lng": "-3.9770507812500004"
       }
     },
     {
-      "id": "e815",
-      "cityName": "Golog",
-      "country": "China",
-      "emoji": "🇨🇳",
-      "date": "2025-03-21T06:35:15.664Z",
+      "id": "2e17",
+      "cityName": "Polignac",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-03-21T07:29:39.116Z",
       "notes": "",
       "position": {
-        "lat": "33.43144133557529",
-        "lng": "99.84375"
+        "lat": "45.07352060670971",
+        "lng": "3.8891601562500004"
       }
     }
   ]
