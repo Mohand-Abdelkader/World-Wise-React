@@ -25,16 +25,28 @@
       "id": "17806751"
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "id": "b176",
+      "cityName": "Objatschewo",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2025-03-21T06:35:12.033Z",
+      "notes": "",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
+        "lat": "60.919512514918836",
+        "lng": "48.624624595046015"
+      }
+    },
+    {
+      "id": "e815",
+      "cityName": "Golog",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2025-03-21T06:35:15.664Z",
+      "notes": "",
+      "position": {
+        "lat": "33.43144133557529",
+        "lng": "99.84375"
+      }
     }
   ]
 }
